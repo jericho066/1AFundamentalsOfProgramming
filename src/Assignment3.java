@@ -8,11 +8,11 @@ public class Assignment3 { // Declaring a public class named Assignment3
         int age = 20; // Declaring an int variable for the age
         double gwa = 95.50; // Declaring double variable for the GWA
 
-        System.out.println("Firstname: " + firstname); // Displays the first name.
-        System.out.println("Lastname: " + lastname); // Displays the last name.
-        System.out.println("Address: " + address); // Displays the address.
-        System.out.println("Mobile Number: " + mobileNumber); // Displays the mobile number.
-        System.out.println("Age: " + age); // Displays the age.
-        System.out.println("GWA: " + gwa); // Displays the GWA.
+        System.out.println("Firstname: " + firstname); // Displays first name
+        System.out.println("Lastname: " + lastname); // Displays last name
+        System.out.println("Address: " + address); // Displays address
+        System.out.println("Mobile Number: " + mobileNumber); // Displays mobile number
+        System.out.println("Age: " + age); // Displays age
+        System.out.println("GWA: " + gwa); // Displays GWA
     } // Closing the main method
 } // Closing the Assignment3 class
