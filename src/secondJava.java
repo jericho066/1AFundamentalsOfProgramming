@@ -30,4 +30,4 @@ public class secondJava {
         System.out.println("Age: " + age);
         System.out.println("Crush sa class:  " + crushSaClass);
     }
-}
+} 
