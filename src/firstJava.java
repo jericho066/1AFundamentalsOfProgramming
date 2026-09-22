@@ -10,4 +10,4 @@ public class firstJava {
         System.out.println("BSIT-1A");
 
     }
-} 
+}  

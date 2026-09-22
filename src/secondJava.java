@@ -17,7 +17,7 @@ public class secondJava {
         System.out.println("Age: " + age);
         System.out.println("Crush sa class:  " + crushSaClass + "\n");
 
-        // Kyle
+        // Kylle
         name = "Kylle Hamir M. Medrano";
         address = "Sto. Tomas, Pangasinan";
         contactNumber = "09319283036";
