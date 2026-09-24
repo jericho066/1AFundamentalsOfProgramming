@@ -12,11 +12,11 @@ public class labQuiz1 {
             System.out.print("Enter your Birth Year: ");
             String birthYearInput = dataln.readLine();
             int birthYear = Integer.parseInt(birthYearInput);
-            String currentYearString = "2026";
-            int currentYear = Integer.parseInt(currentYearString);
+            int currentYear = 2026;
+            int age = currentYear - birthYear;
 
             System.out.println("You were born last " + birthYear + ".");
-            System.out.println("You are now " + (currentYear - birthYear) + " yrs old.");
+            System.out.println("You are now " + age + " yrs old.");
 
 
         } catch (IOException e) {
