@@ -20,10 +20,7 @@ public class labQuiz3 {
 
         JOptionPane.showMessageDialog(null, msg);
 
-        
 
     }
-
-
     
 }
