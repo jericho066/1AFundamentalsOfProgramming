@@ -13,8 +13,7 @@ public class labQuiz2 {
         String name = input.nextLine();
 
         System.out.print("How many kilo of pork will you cook? ");
-        String kiloString = input.nextLine();
-        double kilo = Double.parseDouble(kiloString);
+        double kilo = input.nextDouble();
 
         double ratioForSauce = kilo * (1.0 / 2.0);
         double ratioForVinegar = kilo * (1.0 / 3.0);
